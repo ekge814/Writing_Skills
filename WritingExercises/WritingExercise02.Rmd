@@ -12,25 +12,38 @@ Each of the writing samples below violates at least one of Strunk and White’s 
 
 An analysis was performed by scientists to understand the metabolic pathways in bacteria.
 
+#The scientists performed an analysis to understand the metabolic pathways in bacteria.
+
 ## Put statements in positive form.
 
 Bacteria that do not fail to metabolize glucose are important for fermentation.
+
+#Glucose-metabolizing bacteria are important for fermentation.
 
 ## Use definite, specific, concrete language.
 
 Some studies indicate that algae can be useful in biofuel production.
 
+#Studies by Erin et al. (2026) and Keziah et al. (2025) indicate that algae can be used as a carbon source in biofuel production.
+
 ## Omit needless words.
 
 Numerous scientific investigations have demonstrated that the metabolic pathways of *Aspergillus niger* can be engineered to enhance the production of citric acid, which is a key ingredient in various industrial applications.
+
+#The metabolic pathways of *Aspergillus niger* can be engineered to enhance the production of citric acid, a key ingredient in various industrial applications (Erin & Keziah et al., 2025).
+
 
 ## Express coordinate ideas in similar form.
 
 Microbes are used to produce a range of fermented foods: yeast to produce bread and alcoholic products including beer, wine, and sake; bacillus and natto; cheese, fermented vegetables, and pickles made by lactic acid bacteria; fermentation is even important for production of coffee and chocolate. 
 
+Microbes (such as yeast, bacillus, and lactic acid bacteria) can be used to produce a range of fermented foods as well as coffee and chocolate.
+
 ## Keep related words together.
 
 Microbes that are able, under certain specific environmental conditions and following appropriate pre-treatment of the substrate, to degrade plastics such as polyethylene (PET) using specific enzymes (e.g., PETase) include bacteria such as *Ideonella sakaiensis*. 
+
+#Microbes like *Ideonella sakaiensis* are able to degrade plastics such as polyethylene (PET) using specific enzymes (e.g., PETase) under certain specific environmental conditions and following appropriate pre-treatment of the substrate.
 
 ## In summaries, keep to one tense.
 
@@ -38,7 +51,12 @@ The engineered *E. coli* strain was grown in a 5 L bioreactor for 24 hours.
 During this period, the glucose concentration decreased steadily, while the optical density increases from 0.2 to 8.4. At the end of the fermentation, the culture is harvested by centrifugation and the recombinant enzyme purified using affinity chromatography. 
 The purified enzyme showed a specific activity of 42 U/mg and is suitable for use in the subsequent biocatalytic process.
 
+#The engineered *E. coli* strain was grown in a 5 L bioreactor for 24 hours. 
+During this period, the glucose concentration decreased steadily, while the optical density increased from 0.2 to 8.4. At the end of the fermentation, the culture was harvested by centrifugation and the recombinant enzyme purified using affinity chromatography. 
+The purified enzyme showed a specific activity of 42 U/mg and was suitable for use in the subsequent biocatalytic process.
+
 ## Place the emphatic words of a sentence at the end.
 
 Streptomyces produce antibiotics, and genomic data suggests that any given species can potentially produce a wide variety of them. 
 
+Genomic data suggests that any given species of streptomyces can potentially produce a wide variety of antibiotics. 
