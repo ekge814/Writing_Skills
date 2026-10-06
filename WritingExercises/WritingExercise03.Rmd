@@ -18,7 +18,6 @@ Notably, relatives of Streptomyces, Actinomyces, can also be used to produce val
 Other organisms from the Actinomycetota related to Streptomyces that produce antibiotics include Saccharopolyspora erythraea (erythromycin), Micromonospora purpurea (which produces gentamycin), and Amycolatopsis orientalis (the original source of vancomycin, first isolated in 1953). 
 Generally, the genes required for the synthesis of a particular compound are grouped together (syntenic) on the chromosome, and the set of genes together is termed a biosynthetic gene cluster (BGC).
 
-
 Analysis of the sequenced genomes of Streptomyces species, beginning with the first-sequenced streptomycete (Streptomyces coelicolor A3(2) in 2002), has shown that most strains have the capability to produce 20-30 different natural products. 
 However, most strains produce only a small number of antibiotics when grown in laboratory culture, raising the following questions: 
 1) what are the ecological role(s) of these antibiotics, 
@@ -26,15 +25,13 @@ However, most strains produce only a small number of antibiotics when grown in l
 3) can Streptomyces be induced to produce these cryptic metabolites, and might some of them be useful as clinically useful antibiotics, and 
 4) how widely transferred these antibiotic biosynthesis gene clusters are amongst different strains of Streptomyces. 
 
-
-Identifying novel antibiotics is one of many tools that must be employed in order to combat the rising problem of antimicrobial resistance (AMR), sometimes referred to as the AMR crisis. 
-Currently, over one million deaths per year can be directly attributed to AMR, with nearly 5 million more deaths that involve AMR as a contributing factor. 
-The emergence of multidrug-resistant (MDR) organisms thus threatens the United Nations Sustainable Development Goal (UN SDG) 3, particularly in respect to the specific targets that relate to reducing deaths caused by communicable diseases, and those that relate to the development of new medicines.
-
-
 Previous work has shown that treatment with small molecules including siderophores and gamma-butyrolactones, and genetic manipulations including overexpression of global regulators or pathway-specific activators, and genetic engineering of the host strain transcriptional/translational machinery (e.g., introduction of the so-called "Ochi mutations" in rpsL and rpoB), can activate expression of previously cryptic gene clusters in Streptomyces species. 
 In this work, we will test whether addition of NAG is able to induce the production of novel antibiotics in a newly isolated species of Streptomyces (S. strathclydensis). 
 These Strathclydamycins do not match any known antibiotic structures, suggesting that these are novel compounds and that future work should investigate whether key pathogens (ESKAPE pathogens) can easily evolve resistance to them. 
 Using a combination of bioassay-guided fractionation and chemical characterization methods, we observed the production of three novel compounds, Strathclydamycins A-C. 
 This was done by treating cultures grown in liquid minimal medium (MM) with 0.5 mM NAG, and observing the production of a trio of bioactive compounds, which were not produced in MM-NAG, and which then had their structures solved by NMR (after they were isolated using preparative HPLC).  
+
+Identifying novel antibiotics is one of many tools that must be employed in order to combat the rising problem of antimicrobial resistance (AMR), sometimes referred to as the AMR crisis. 
+Currently, over one million deaths per year can be directly attributed to AMR, with nearly 5 million more deaths that involve AMR as a contributing factor. 
+The emergence of multidrug-resistant (MDR) organisms thus threatens the United Nations Sustainable Development Goal (UN SDG) 3, particularly in respect to the specific targets that relate to reducing deaths caused by communicable diseases, and those that relate to the development of new medicines.
 
